@@ -38,7 +38,6 @@ I am a tech-driven individual specializing in cloud infrastructure and automatio
   <img src="https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=tokyonight&count_private=true" alt="Liel's Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
