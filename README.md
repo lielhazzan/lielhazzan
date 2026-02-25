@@ -35,10 +35,8 @@ I am a tech-driven individual specializing in cloud infrastructure and automatio
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=tokyonight&count_private=true" alt="Liel's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lielhazzan&theme=tokyonight" alt="Liel's Streak" />
 </p>
----
 
 ### 📫 Connect with me:
 <p align="left">
