@@ -31,13 +31,19 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 
 ### 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Liel's Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Liel-hazzan&show_icons=true&theme=vision-glow&count_private=true" alt="Liel's Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Liel-hazzan&theme=vision-glow" alt="streak stats"/>
 </p>
 
 ---
 
+### 🔄 Recent Activity
+---
+
 ### 📁 Featured Projects
-* **[Project Name]** - End-to-end CI/CD pipeline using Jenkins and Docker.
-* **[Infrastructure-as-Code]** - Deploying AWS resources via Terraform.
-* **[Automation-Scripts]** - Collection of Bash/Python scripts for system maintenance.
+* **🚀 CI/CD Pipeline Exploration** - Implementing automated testing and deployment using Jenkins and Docker.
+* **☁️ Infrastructure as Code** - Automating cloud resource provisioning on AWS using Terraform.
+* **🤖 Linux Automation Suite** - A collection of Bash and Python scripts for system monitoring and log analysis.
