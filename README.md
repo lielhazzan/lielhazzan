@@ -35,7 +35,7 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Liel-hazzan&theme=vision-glow" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lielhazzan&theme=vision-glow" alt="streak stats"/>
 </p>
 
 ---
