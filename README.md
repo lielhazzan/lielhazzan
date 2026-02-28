@@ -1,3 +1,5 @@
+![Liel's Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Liel%20Hazzan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20In%20The%20Making&descSize=20&descAlignY=60)
+
 # 👨‍💻 Liel Hazzan | DevOps Engineer 🚀
 
 <p align="left">
@@ -31,11 +33,11 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 
 ### 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=transparent&hide_border=true" alt="Liel's Stats" />
+<img src="https://github-readme-stats-sigma.vercel.app/api?username=lielhazzan&show_icons=true&theme=transparent" alt="Liel's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lielhazzan&theme=transparent&hide_border=true" alt="Liel's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lielhazzan&theme=transparent" alt="Liel's Streak" />
 </p>
 
 ---
@@ -46,7 +48,7 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 ### 📁 Featured Projects
 * **🚀 CI/CD Pipeline Exploration** - Implementing automated testing and deployment using Jenkins and Docker.
 * **☁️ Infrastructure as Code** - Automating cloud resource provisioning on AWS using Terraform.
-* **🤖 Linux Automation Suite** - A collection of Bash and Python scripts for system monitoring and log analysis.
+* **🤖 Linux Automation Suite** - A collection of Bash and Python scripts for system monitoring.
 
 ---
 <p align="center">
