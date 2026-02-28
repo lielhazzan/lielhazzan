@@ -1,10 +1,7 @@
-![Liel's Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Liel%20Hazzan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20In%20The%20Making&descSize=20&descAlignY=60)
-
 # 👨‍💻 Liel Hazzan | DevOps Engineer 🚀
 
-<p align="left">
-<a href="https://www.linkedin.com/in/liel-hazzan-43b05b366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:leal.hazzan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lielhazzan&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
@@ -22,35 +19,28 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions) |
-| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible) |
-| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure) |
-| **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats-sigma.vercel.app/api?username=lielhazzan&show_icons=true&theme=transparent" alt="Liel's Stats" />
-</p>
+### 📈 GitHub Stats (Simple & Stable)
+* 🏆 **Total Contributions:** ![Stats](https://img.shields.io/github/commit-activity/m/lielhazzan?style=flat-square&color=blue)
+* 📂 **Public Repos:** ![Repos](https://img.shields.io/github/directory-stats-count/lielhazzan?style=flat-square&color=orange)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lielhazzan&theme=transparent" alt="Liel's Streak" />
-</p>
-
----
-
-### 🔄 Recent Activity
 ---
 
 ### 📁 Featured Projects
 * **🚀 CI/CD Pipeline Exploration** - Implementing automated testing and deployment using Jenkins and Docker.
 * **☁️ Infrastructure as Code** - Automating cloud resource provisioning on AWS using Terraform.
-* **🤖 Linux Automation Suite** - A collection of Bash and Python scripts for system monitoring.
 
 ---
-<p align="center">
-  <i>"If you have to do it twice, automate it."</i>
+
+### 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/liel-hazzan-43b05b366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:leal.hazzan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
