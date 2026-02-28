@@ -31,11 +31,11 @@ I'm a **DevOps Engineering Student at IITC College**, focused on building automa
 
 ### 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lielhazzan&show_icons=true&theme=vision-glow&count_private=true" alt="Liel's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=vision-glow&count_private=true" alt="Liel's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lielhazzan&theme=vision-glow" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lielhazzan&theme=vision-glow" alt="streak stats"/>
 </p>
 
 ---
