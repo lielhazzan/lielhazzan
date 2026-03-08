@@ -8,8 +8,8 @@
 
 ### 📊 My GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lielhazzan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=radical)
 </div>
 
 ---
