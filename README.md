@@ -1,4 +1,15 @@
+<div align="center">
+  
 # 👨‍💻 Liel Hazzan | DevOps Engineer 🚀
+
+![snake svg](https://raw.githubusercontent.com/lielhazzan/lielhazzan/output/github-contribution-grid-snake.svg)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lielhazzan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=radical)
+
+</div>
 
 ---
 
