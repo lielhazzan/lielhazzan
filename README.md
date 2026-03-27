@@ -10,6 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lielhazzan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lielhazzan&layout=compact&theme=radical)
+
 </div>
 
 ---
@@ -17,14 +18,14 @@
 ### 💡 About Me
 I'm a **DevOps Engineering Student at IITC College**, focused on building automated, scalable, and resilient infrastructure.
 
-- 🔭 **Current Focus:** Building production-ready CI/CD pipelines.
-- ⚙️ **Specializing in:** Cloud infrastructure, Container orchestration, and Automation.
-- 🏗️ **Goal:** Optimizing developer workflows and system reliability.
+* 🔭 **Current Focus:** Building production-ready CI/CD pipelines.
+* ⚙️ **Specializing in:** Cloud infrastructure, Container orchestration, and Automation.
+* 🏗️ **Goal:** Optimizing developer workflows and system reliability.
 
 ---
 
-🛠️ Tech Stack & Skills
-Programming Languages:
+### 🛠️ Tech Stack & Skills
+**Programming Languages:**
 
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -33,7 +34,7 @@ Programming Languages:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-System & Scripting:
+**System & Scripting:**
 
 <p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
