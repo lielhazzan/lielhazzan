@@ -29,7 +29,6 @@ I am a passionate **DevOps Engineer** focused on automating infrastructure, stre
 #### 🚀 DevOps & CI/CD
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -60,10 +59,6 @@ I am a passionate **DevOps Engineer** focused on automating infrastructure, stre
 
 ### 📂 Featured Projects
 Here are some of the projects I've built:
-
-#### 🌟 [AlphaTrakr](https://github.com/lielhazzan/AlphaTrakr)
-*A tracking platform built to optimize tracking workflows.*
-* **Technologies:** Python, C#, Docker.
 
 #### 🧪 [React CI Pipeline](https://github.com/lielhazzan/react-ci-pipeline)
 *A complete CI/CD pipeline implementation for a React application, focusing on automated testing, build, and deployment.*
